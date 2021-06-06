@@ -1,5 +1,5 @@
 # Cats-n-Dogs-Classsification
-Example cat's and dogs classificator with Tensorflow Keras with data from https://www.kaggle.com/c/dogs-vs-cats. Dataset includes 25K labeled images of dogs and cats and 25k unlabeled for testing.
+Example cat's and dogs image classifier with Tensorflow Keras and with data from https://www.kaggle.com/c/dogs-vs-cats. Dataset includes 25K labeled images of dogs and cats and 25k unlabeled for testing.
 
 Model with pretrained VGG-16:
 
